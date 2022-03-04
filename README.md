@@ -12,7 +12,7 @@ Esse trabalho foi realizado em  2020 e 2021 no município de Lagoa Santa - MG e 
 Porém, no momento em que esse projeto foi constrúido, não havia como visualizar os dados desses indicadores atraves do próprio programa, não existia um relatório específico dentro da aplicação para visualização e acompanhamento dos indicadores de saúde exigidos pelo Ministério da Saúde. Essa foi a motivação para a análise da base de dados local do programa e a construção das queries SQL aqui incluídas para que os indicadores pudessem ser efetivamente acompanhados em tempo real.
  
 
-**PS:Esse projeto não terá mais manutenção ou atualizações**
+**PS:Esse projeto não terá mais manutenção ou atualizações em um futuro próximo**
  
 ## Informações Importantes
 
