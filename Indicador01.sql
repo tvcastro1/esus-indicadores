@@ -1,4 +1,3 @@
-
 SELECT
 		DISTINCT ON (b.dt_inicial_atendimento)  b.dt_inicial_atendimento,
 		b.co_seq_fat_atd_ind,
@@ -57,4 +56,3 @@ AND
 
 ORDER BY 
 		b.dt_inicial_atendimento 
-
