@@ -18,7 +18,7 @@ Porém, no momento em que esse projeto foi constrúido, não havia como visualiz
 
 • Os scripts SQL estão adaptados para rodar em um SGBD PostgreSQL, inclusive utilizando funções compatíveis apenas com PostgreSQL.
 
-• As queries foram construídos com base em um schema de dados da versão 3.2 do e-SUS APS
+• As queries foram construídos com base em um **schema** de dados da versão 3.2 do e-SUS APS
 
 • A base para a construção dessas consultas foi a análise da documentação disponível em: [Guia para Qualificação dos Indicadores da APS](http://189.28.128.100/dab/docs/portaldab/documentos/esus/qualificadores_indicador_PEC.pdf), e da documentação [Layout e-SUS AB de Dados e Interface Versão 4.0.0](https://integracao.esusab.ufsc.br/v400/)
 
